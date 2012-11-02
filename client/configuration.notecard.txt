@@ -1,0 +1,32 @@
+# Need some help? Check out the 'Read Me' notecard, or head over to our Support forum: http://www.squawknest.com/support
+
+configured=no
+
+chirp=on
+channel=42
+squawknest=on
+
+twitter=off
+twitter username=
+twitter password=
+twitter geocode=on
+
+jaiku=off
+jaiku username=
+jaiku api key=
+jaiku geocode=on
+jaiku location=on
+
+delicious=off
+delicious username=
+delicious password=
+
+magnolia=off
+magnolia username=
+magnolia api key= 
+
+# Donate L$200 or more at any of our Squawk tip jars to enable access to the following features.
+
+notifications=off
+hide responses to others=off
+max notifications per update=10

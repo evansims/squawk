@@ -18,5 +18,5 @@ Repo Summary
 
 /server - Contains the PHP backend that acted as a middleman between the Second Life clients and the social networks. It also offers a relatively simple frontend with user profiles.
 
-/sql - Contains the SQL structure necessary for the server.
+/database - Contains the SQL structure necessary for the server.
 

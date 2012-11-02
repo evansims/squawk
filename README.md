@@ -1,5 +1,9 @@
 Squawk was a popular social networking client for Second Life. It connected your ingame experience with Twitter and Jaiku for messaging and Del.icio.us and Ma.gnolia for socially "gridmarking" locations of interest inside the virtual word.
 
+Demo
+----
+I've uploaded a very early and very rough demo video I threw together on [YouTube](https://www.youtube.com/watch?v=1NxKD9HmPCE).
+
 History
 -------
 At peak operating times several hundered users were using Squawk simultaneously to bridge their virtual lives with these social networks.
